@@ -1,0 +1,5 @@
+The length of a string in Go 
+is the number of bytes 
+required to represent it 
+in UTF-8 encoding, NOT 
+the number of Unicode characters.
